@@ -77,3 +77,14 @@ section h1 {
   line-height: 30px;
 }
 
+.appointmentsTable {
+  margin: 0 auto;
+  background-color: #eee;
+  color: gray;
+  width: 60%;
+}
+
+.appointmentsTable thead {
+  background-color: #04AA6D;
+  color: white;
+}
